@@ -30,7 +30,7 @@ public class Escalonador {
             verificaEspera();
             verificaCreditosProntos();
         }
-
+        //TESTE
         System.out.println("media de trocas: " + interrupcoes / processos);
 
         System.out.println("media de instruções: " + instrucoes / contQuantuns);
