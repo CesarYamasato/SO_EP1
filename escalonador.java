@@ -6,7 +6,7 @@ import static escalonador.TabelaProcessos.prontos;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 
-public class Escalonador {
+public class escalonador {
 
     private static int quantum;
     private static int interrupcoes = 0;

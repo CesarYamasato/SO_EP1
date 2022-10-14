@@ -6,7 +6,7 @@ enum Estado {
 	BLOQUEADO
 }
 
-public class Processo {
+public class processo {
 	String nome;
 	final String [] instrucao;
 	private Estado estado;
